@@ -8,9 +8,9 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 		/*
 		 * Type java code by using if-else if() statement,
-		 * If age is less than 13 output will be “Should not work”,
-		 * If age is greater than 65 output will be “Retired”,
-		 * Otherwise; output will be “Should work”
+		 * If age is less than 13 output will be â€œShould not workâ€,
+		 * If age is greater than 65 output will be â€œRetiredâ€,
+		 * Otherwise; output will be â€œShould workâ€
 		 */
 			
 			Scanner scan = new Scanner (System.in);
@@ -24,6 +24,7 @@ public class FirstClass {
 			} else {
 				System.out.println("Should work");
 			}
+		System.out.println("Thank you!");
 		}
 			
 
