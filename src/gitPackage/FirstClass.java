@@ -25,6 +25,7 @@ public class FirstClass {
 				System.out.println("Should work");
 			}
 		System.out.println("Thank you!");
+		System.out.println("Finish!");
 		}
 			
 
